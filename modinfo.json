@@ -262,6 +262,7 @@
     "gitPath" : "iiDk-the-actual/iis.Stupid.Menu",
     "releaseId" : 1,
     "author" : "iiDk-the-actual",
+    "version": "5.7.1",
     "group" : "Cheats"
     "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/5.7.1/iis_Stupid_Menu.dll"
    },
@@ -271,6 +272,7 @@
     "gitPath" : "Toastconcern/HoverboardsAnywhere",
     "releaseId" : 1,
     "author" : "Toast Concern",
+    "version": "1.0.0",
     "group" : "Cheats"
     "download_url": "https://github.com/Toastconcern/HoverboardsAnywhere/releases/download/V1.0.0/HoverboardsAnywhereV1.0.0.dll"
    },
@@ -280,6 +282,7 @@
     "gitPath" : "iiDk-the-actual/MonoSandbox-2025",
     "releaseId" : 1,
     "author" : "iiDk-the-actual",
+    "version": "1.2.4",
     "group" : "Gameplay"
     "download_url": "https://github.com/iiDk-the-actual/MonoSandbox-2025/releases/download/1.2.4/MonoSandbox.dll"
    },
@@ -290,6 +293,7 @@
     "releaseId" : 1,
     "author" : "The Graze",
     "group" : "Gameplay"
+    "version": "1.0.1",
     "download_url": "https://github.com/Chin0303/Gorilla-Discord-RPC/releases/download/1.0.1/GorillaTag.Discord.RPC.zip"
    },
    {
@@ -299,6 +303,7 @@
     "releaseId" : 1,
     "author" : "PurpleAlot",
     "group" : "Gameplay"
+    "version": "1.0.0",
     "download_url": "https://github.com/PurpleAlot/Startup-Room-Joiner/releases/download/1.0.0/StartupRoomJoiner.zip"
    }
 ]
