@@ -258,52 +258,42 @@
    },
    {
     "name" : "iis Stupid Mod Menu",
-    "tag" : "",
-    "gitPath" : "iiDk-the-actual/iis.Stupid.Menu",
-    "releaseId" : 1,
     "author" : "iiDk-the-actual",
     "version": "5.7.1",
+    "gitPath" : "iiDk-the-actual/iis.Stupid.Menu",
     "group" : "Cheats"
     "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/5.7.1/iis_Stupid_Menu.dll"
    },
    {
     "name" : "Hoverboard Anywhere",
-    "tag" : "",
-    "gitPath" : "Toastconcern/HoverboardsAnywhere",
-    "releaseId" : 1,
     "author" : "Toast Concern",
     "version": "1.0.0",
+    "gitPath" : "Toastconcern/HoverboardsAnywhere",
     "group" : "Cheats"
     "download_url": "https://github.com/Toastconcern/HoverboardsAnywhere/releases/download/V1.0.0/HoverboardsAnywhereV1.0.0.dll"
    },
    {
     "name" : "Mono Sandbox",
-    "tag" : "",
-    "gitPath" : "iiDk-the-actual/MonoSandbox-2025",
-    "releaseId" : 1,
     "author" : "iiDk-the-actual",
     "version": "1.2.4",
+    "gitPath" : "iiDk-the-actual/MonoSandbox-2025",
     "group" : "Gameplay"
     "download_url": "https://github.com/iiDk-the-actual/MonoSandbox-2025/releases/download/1.2.4/MonoSandbox.dll"
    },
    {
     "name" : "Monke Discord RPC",
-    "tag" : "",
-    "gitPath" : "The-Graze/MonkeRPC",
-    "releaseId" : 1,
     "author" : "The Graze",
-    "group" : "Gameplay"
     "version": "1.0.1",
+    "gitPath" : "The-Graze/MonkeRPC",
+    "group" : "Gameplay"
     "download_url": "https://github.com/Chin0303/Gorilla-Discord-RPC/releases/download/1.0.1/GorillaTag.Discord.RPC.zip"
    },
    {
     "name" : "Startup Room Joiner",
-    "tag" : "",
-    "gitPath" : "PurpleAlot/Startup-Room-Joiner",
-    "releaseId" : 1,
     "author" : "PurpleAlot",
-    "group" : "Gameplay"
     "version": "1.0.0",
+    "gitPath" : "PurpleAlot/Startup-Room-Joiner",
+    "group" : "Gameplay"
     "download_url": "https://github.com/PurpleAlot/Startup-Room-Joiner/releases/download/1.0.0/StartupRoomJoiner.zip"
    }
 ]
